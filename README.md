@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀Mini XLite Autoscript By Vinstechmy 🚀
+🚀Mini XLite Autoscript By DanuScript 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -48,7 +48,7 @@
 ♦️ Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/MiniXLiteAutoscript/main/V1/setup.sh && chmod +x setup.sh && ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://github.com/Danu1688/DanuVpsScript/blob/master/V1/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 
 </b>
@@ -68,10 +68,6 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <img src="https://user-images.githubusercontent.com/82468311/211945563-7f9ceb5b-1430-43e3-8afd-a058d3db0a8c.png" width="400" title="Autoscript-Lite">
 </p>
 
-## ⏩ BUY ME A COFFEE ? ⏪
-<b>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189573622-9b165a67-4ae7-4354-bd8d-5fad54c266fa.JPG" width="300" title="Autoscript-Lite">
-<b>
-# DanuVpsScript
+## ⏩ DanuScript ⏪
+
+  DanuVpsScript
